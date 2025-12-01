@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/suman-work-portfolio/static/css/main.92c8d4eb.css",
+    "main.js": "/suman-work-portfolio/static/js/main.9e4cf0ae.js",
+    "static/js/453.ececc0a5.chunk.js": "/suman-work-portfolio/static/js/453.ececc0a5.chunk.js",
+    "index.html": "/suman-work-portfolio/index.html",
+    "main.92c8d4eb.css.map": "/suman-work-portfolio/static/css/main.92c8d4eb.css.map",
+    "main.9e4cf0ae.js.map": "/suman-work-portfolio/static/js/main.9e4cf0ae.js.map",
+    "453.ececc0a5.chunk.js.map": "/suman-work-portfolio/static/js/453.ececc0a5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92c8d4eb.css",
+    "static/js/main.9e4cf0ae.js"
+  ]
+}
